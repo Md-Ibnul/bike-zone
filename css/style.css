@@ -1,0 +1,9 @@
+.rating-icon{
+    max-width: 20px;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #dc3545;
+}
